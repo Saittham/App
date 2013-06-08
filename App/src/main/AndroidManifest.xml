@@ -31,6 +31,8 @@
                 android:value=".ItemListActivity" />
         </activity>
         <activity android:name=".LocationActivity"/>
+
+        <service android:name=".CollectUserDataService"/>
     </application>
 
 </manifest>
